@@ -11,7 +11,7 @@ public class Main {
         checkOddEven("2  v v ");
 //        ------------------------------------
 //        Task 3
-//        mushaobs int array-s gadacemisas, radgan es metodi int tipis parametrbs igebs
+//        mushaobs int array-s gadacemisas, radgan es metodi int tipis parametrebs igebs
 
         int[] numberList = {1, 54, -516, 5454, 855, 222, 487851};
         printArray(numberList);
